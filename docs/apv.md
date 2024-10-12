@@ -125,6 +125,8 @@ celstraf.
 
 7. Wanneer er sprake is van een ontsnapping uit het cellencomplex volgens artikel 15, moet een eventuele medeplichtige te allen tijde videobewijs kunnen overleggen waaruit blijkt dat zij de persoon in hechtenis hebben waargenomen binnen de stad, en op basis daarvan redelijkerwijs ervanuit konden gaan dat die persoon vastzat.
 
+8. Wanneer een burger een duikuitristing gebruikt tijdens een shootout om hier profijt uit te halen zal de persoon een ban krijgen voor 2 weken + het wapen in beslag genomen worden en aan de tegen partij gegeven worden. 
+
 ### Artikel 3 - (Overheids) kleding
 
 1. Bij het aanmaken van je personage dient je kleding veranderd te worden. Je mag niet dus niet met de starters kleding de server betreden. Verder dien je ervoor te zorgen dat je karakter er realistisch uitziet, armen bij de outfit kloppen en er geen lichaamsdelen ontbreken bij jouw personage.
