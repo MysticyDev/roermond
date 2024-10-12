@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Wet- en Regelgeving Nijmegen
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welkom op de pagina voor de Wet- en Regelgeving van Nijmegen!
+In het menu aan de linkerkant vind je alle verschillende documenten die betrekking hebben op Nijmegen.
 
-## Commands
+Zorg ervoor, dat je voor je deelneemt aan Nijmegen, kennis hebt genomen van deze wetten.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- De Algemene Plaatselijke Verordening bevat alle regels die niet te maken hebben met de Roleplay (dit zijn zogezegd de "server regels").
+- Het Wetboek Nijmegen bevat alle wetten voor de burgers.
+- Alle overige documenten zijn specifiek bedoeld voor bepaalde zaken (zoals een belastingdocument waar je kan opzoeken hoeveel de autobelasting is).
 
-## Project layout
+## Officiële discord servers
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Nijmegen heeft verschillende discord servers die zijn goed gekeurd door het stadsbestuur deze zijn:
+
+| Server | Beschrijving | Invite link |
+|---|---|:---:|
+|Nijmegen Roleplay| Main discord server van Nijmegen | [Invite](https://discord.gg/nijmegenrp) |
+|Nijmegen Support| Support discord server van Nijmegen | [Invite](https://discord.gg/eG9yTvaHYp) |
+|Nijmegen Cardealer| Cardealer discord server van Nijmegen | [Soon](soon) |
+|Nijmegen Overheid| Overheid discord server van Nijmegen | [Invite](https://discord.gg/mBTXEnh5ZC) |
+|Nijmegen Gangs| Gangs discord server van Nijmegen | [Invite](https://discord.gg/bz5VWVrc) |
