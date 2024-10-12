@@ -1,18 +1,10 @@
 # Project information
-site_name: Tedeapolis wet en regelgeving
-site_url: 'https://wetboek.tedeapolis.nl/'
-site_description: 'Wet en regelgeving van Tedeapolis roleplay'
-site_author: 'Tedeapolis'
+site_name: Eindhoven wet en regelgeving
+site_description: 'Wet en regelgeving van Eindhoven Roleplay'
+site_author: 'Eindhoven'
 
 # Copyright
-copyright: Copyright &copy; 2019 - 2022 Tedeapolis
-
-# Repository
-repo_url: 'https://github.com/Tedeapolis/wet-en-regelgeving/'
-repo_name: 'Tedeapolis/wet-en-regelgeving'
-edit_uri: 'edit/pre-release/docs/'
-
-google_analytics: ['UA-167800475-3', 'wetboek.tedeapolis.nl']
+copyright: Copyright &copy; 2023 - 2024 Eindhoven
 
 # Congiguration
 theme:
@@ -30,8 +22,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoTedeapolis.png
-  logo: img/logoTedeapolis.webp
+  favicon: img/logoEindhoven.png
+  logo: img/logoEindhoven.webp
   language: nl
   features:
     - navigation.instant
@@ -45,15 +37,7 @@ theme:
     analytics:
       provider: google
       property: UA-167800475-3
-
-plugins:
-  - git-revision-date-localized:
-      type: timeago
-      time_zone: Europe/Amsterdam
-      locale: nl
-      fallback_to_build_date: false
-  - search:
-      lang: nl
+      
 markdown_extensions:
   - admonition
   - attr_list
@@ -69,7 +53,7 @@ nav:
   - NOTAM: notam.md
   - Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
-  - Streamen op Tedeapolis: streamen.md
+  - Streamen op Eindhoven: streamen.md
   - Kosten:
     - Advocatuur: kosten/advocatuur.md
     - Ambulance: kosten/ambulance.md
