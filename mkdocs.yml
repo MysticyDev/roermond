@@ -24,7 +24,6 @@ theme:
         name: Switch to system preference
   favicon: img/logoNijmegen.png
   logo: img/logoNijmegen.webp
-  custom_dir: docs/overrides
   language: nl
   features:
     - navigation.instant
