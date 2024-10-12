@@ -1,8 +1,8 @@
-# Risicogebieden binnen Nijmegen
+# Risicogebieden binnen Roermond
 
-Nijmegen kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
+Roermond kent enkele risicogebieden. In een risicogebied mag preventief gefouilleerd worden. Dus dat wilt zeggen dat ook voertuigen gecontroleerd mogen worden. Hier onder zijn deze gebieden aangegeven.
 
-De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Nijmegen, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
+De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Roermond, aanvullende risicogebieden aan te wijzen. Hiervoor gelden dezelfde regels als de normale risicogebieden.
 
 ## Kaartweergave
 
@@ -100,7 +100,7 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Nijmegen, 
 
 - 5152
 
-### Nijmegen Casino
+### Roermond Casino
 
 - 6047
 - 6048
@@ -112,3 +112,5 @@ De korpsleiding is bevoegd om, in samenspraak met de gemeenteraad van Nijmegen, 
 - 704
 - 706
 - 707
+
+- Website is opgesteld door Mystic / medal.exe te Roermond
