@@ -14,9 +14,9 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Roermond (verder aangeduid als WNM) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WNM heeft betrekking op het vaste land, de gemeente, en de stad Roermond.
-3. Het WNM is nauw verweven met de Algemene Plaatselijke Verordening Roermond (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek Roermond (verder aangeduid als WRRP) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WRRP heeft betrekking op het vaste land, de gemeente, en de stad Roermond.
+3. Het WRRP is nauw verweven met de Algemene Plaatselijke Verordening Roermond (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
