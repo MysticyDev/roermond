@@ -331,6 +331,11 @@ een melding maken en de ambulancier snel te laten werken zodat het wapen direct 
 
 *Bij overtreding zal er gestraft worden volgens de 3e categorie. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens de 5de categorie.
 
+### Artikel 22 - Liegen tegen politie
+1. Het misleiden van politie wanneer ze vragen om identiteit is niet toegestaan.
+2. U bent verplicht om uw volledige naam te zeggen wanneer de politie hierom vraagt.
+3. Indien u dit niet doet zal u een staf ontvangen van de 4de categorie!
+
 ## Narcopolis
 
 Onderstaande regels tellen alleen op Narcopolis
